@@ -65,7 +65,7 @@ submitBtn.onclick = () => {
   } else {
     EmailInput.classList.add("is-invalid");
   }
-0
+
   if (PassInput.value.length < 6) {
     PassInput.classList.add("is-invalid");
   } else {
